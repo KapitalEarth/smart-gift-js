@@ -1,3 +1,6 @@
+# Exclude generated files
+dist/*.bundle.js
+
 # Logs
 logs
 *.log
